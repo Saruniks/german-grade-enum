@@ -1,4 +1,4 @@
-#Output:
+# Output:
 
 ```
 Grade as symbol         : Good(Some(Plus))
