@@ -1,5 +1,6 @@
 Output:
 
+```
 Grade as symbol         : Good(Some(Plus))
 Grade as figure         : 2
 Grade as detailed figure: +2
@@ -19,3 +20,4 @@ Grade as symbol         : Failed
 Grade as figure         : 6
 Grade as detailed figure: 6
 Grade description       : Failed
+```
